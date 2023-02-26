@@ -1,0 +1,65 @@
+body{
+  margin: 0%;
+}
+h1{
+  margin-top: 0%;
+  margin-left: 530;
+  font-family: inherit;
+  font-style: oblique;
+  font-size: 60;
+}
+h2{
+  margin-left: 560;
+  font-size: 30;
+}
+#one{
+  background-color: DFFFD8;
+}
+#two{
+  background-color: 03001C;
+}
+.pic{
+  margin-left: 570;
+  margin-top: 10;
+}
+.img{
+  margin:40;
+  margin-top: 20;
+}
+.img1{
+  margin-left: 355;
+}
+.img2{
+  margin-left: 1000;
+}
+span,h4,th{
+  color: green;
+}
+p{
+  color: white;
+  margin-left: 450;
+}
+ol,ul{
+  color: white;
+  margin-left: 565;
+}
+#three{
+  margin-left: 600;
+}
+h4{
+  margin-left: 620;
+}
+tr{
+  color: white;
+}
+table{
+  margin-left: 600; 
+}
+h3{
+  margin-left: 650;
+  color: green;
+}
+.but{
+  background-color: cyan;
+  margin-left: 635;
+}
